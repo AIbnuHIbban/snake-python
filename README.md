@@ -10,4 +10,4 @@ This program was created as a fun exercise to learn the basics of Pygame and sim
 4. Type "python snake.py" or "python3 snake.py" in the terminal or command prompt to run the program.  
 
 ### Demo
-
+https://user-images.githubusercontent.com/32984653/230247709-24e6296e-1bd3-4c30-9019-c1b57097c543.mp4
